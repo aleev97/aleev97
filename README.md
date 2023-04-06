@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hola 👋, mi nombre es Alejandro
 ![](https://media.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif)
 
