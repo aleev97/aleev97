@@ -5,5 +5,4 @@ Soy estudiante de ingeniería en sistemas y programador, apasionado y dedicado. 
 
 Habilidades:  / REACT / REDUX / JS / HTML / NODE/ MYSQL / POSTGRES / CSS
 
-- 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo TypeScrypt 
