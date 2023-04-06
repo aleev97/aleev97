@@ -6,3 +6,9 @@ Soy estudiante de ingeniería en sistemas y programador, apasionado y dedicado. 
 Habilidades:  / REACT / REDUX / JS / HTML / NODE/ MYSQL / POSTGRES / CSS
 
 - 🌱 Estoy aprendiendo TypeScrypt 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleev97)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleev97&show_icons=true)  
+
