@@ -3,7 +3,7 @@
 
 Desarrollador apasionado por el ecosistema **JavaScript / TypeScript**, la creación de interfaces modernas y la integración de Inteligencia Artificial para automatizar procesos. 
 
- Activo en búsqueda de oportunidades en desarrollo **Frontend / Full Stack** (Junior / Semi-Senior).
+ Activo en búsqueda de oportunidades en desarrollo **Frontend / Full Stack**.
 
 ---
 
