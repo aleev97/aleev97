@@ -36,7 +36,6 @@ Desarrollador apasionado por el ecosistema **JavaScript / TypeScript**, la creac
 
 ###  Contacto & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://f1-telemetry-strategy-lab.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aleev](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bs%2Fc6zIajRcyuMhVsElQTYA%3D%3D))
 ✉️ **Email:** valverdealejandro327@gmail.com
 📍 **Ubicación:** Mendoza, Argentina
